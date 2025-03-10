@@ -1,4 +1,4 @@
-# US_Tornado_Prediction
+# US Tornado Prediction
 
 ## By Maria Priscilla Deanne Handoyo
 
